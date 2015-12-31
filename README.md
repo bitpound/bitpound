@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 Bitpound
 ========
@@ -10,4 +9,3 @@ Bitpound
 =======
 # bitpound
 hybrid sha256 cryptocurrency
->>>>>>> 70d1f513fc5f4b43b0f84e8534518061fcce5c01
